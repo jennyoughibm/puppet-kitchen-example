@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86df475f-8e4c-40b0-9afa-9439c0515a7f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="591986581">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kitchen.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/API_Regression" value="PREVIEW" />
+        <entry key="$USER_HOME$/AppiumParallel/appiumpro/java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Appium_Mobile_UI_tests/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/Appium_Mobile_UI_tests/Day1/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/Appium_Mobile_UI_tests/QAAUtomation_bk/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Appium_Mobile_UI_tests/iOSBundleID/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/Appium_Mobile_UI_tests/laster_master/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/Appium_Mobile_UI_tests/latest/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/QAAutomation-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/QAAutomation_latest/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/QA_Automation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/android-testing/runner/AndroidJunitRunnerSample" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/android-testing/ui/uiautomator/BasicSample" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/android-testing/unit/BasicUnitAndroidTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-client-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/FSA/bdd-security" value="PREVIEW" />
+        <entry key="$USER_HOME$/FSA_new/bdd-security" value="PREVIEW" />
+        <entry key="$USER_HOME$/Latest_Master/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/QAAutomation/2019/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/QAAutomation/Appium_Mobile_UI_tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/QAAutomation/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/QAAutomation/QAAutomation_bk" value="PREVIEW" />
+        <entry key="$USER_HOME$/QAAutomation_latest" value="PREVIEW" />
+        <entry key="$USER_HOME$/VirginMoney/API_Regression" value="PREVIEW" />
+        <entry key="$USER_HOME$/VirginMoney/FingerprintDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/VirginMoney/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/VirginMoney/adb-device-manipulation/ADBHelper" value="PREVIEW" />
+        <entry key="$USER_HOME$/VirginMoney/optimusTemplate" value="PREVIEW" />
+        <entry key="$USER_HOME$/VirginMoney/retailsite" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/android-cognito-token-generator" value="PREVIEW" />
+        <entry key="$USER_HOME$/latest_QAAUtomation/QAAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/teamgtest" value="PREVIEW" />
+        <entry key="$USER_HOME$/test/Appium_Mobile_UI_tests" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="634" />
+    <option name="y" value="23" />
+    <option name="width" value="976" />
+    <option name="height" value="921" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="puppet-kitchen-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="puppet-kitchen-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$/.tmp/librarian/cache/source/puppet/forge/forgeapi_puppetlabs_com/puppetlabs-stdlib/5.2.0/stdlib" />
+        <option value="$PROJECT_DIR$/.tmp/librarian/cache/source/puppet/forge/forgeapi_puppetlabs_com/puppetlabs-ntp/7.4.0/ntp" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86df475f-8e4c-40b0-9afa-9439c0515a7f" name="Default Changelist" comment="" />
+      <created>1556024716078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556024716078</updated>
+      <workItem from="1556024717855" duration="1216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="634" y="23" width="976" height="921" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3319672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.59481746" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32979977" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kitchen.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
